@@ -1,2 +1,2 @@
 # TEMPLATE
-A general template that can be used to kickstart your repo for creating weekly tasks
+Update this template - make assignments with ease
