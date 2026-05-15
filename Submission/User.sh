@@ -1,4 +1,5 @@
-#Participant to enter his details here:
+#!/bin/bash
+#Participant to enter their details here:
 
 name="name goes here"
 Roll_no="roll number goes here"
