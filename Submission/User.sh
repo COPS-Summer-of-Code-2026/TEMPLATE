@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/bin/env bash
 #Participant to enter their details here:
 
 name="name goes here"
